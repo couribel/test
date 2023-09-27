@@ -1,3 +1,4 @@
+// Pour gagner du temps au jeu Pedantix : https://cemantix.certitudes.org/pedantix
 // Source : https://www.reddit.com/r/cemantix/comments/vjjpps/script_pedantix/?rdt=64067
 function traiter_liste(liste_mots) {
     $("#pedantix-guess").value = liste_mots[0];
