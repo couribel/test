@@ -21,5 +21,5 @@ function traiter_liste2(liste_mots) {
   }
 }
 liste_mots = ['le', 'de', 'du', 'au', 'à', 'que', 'qui', 'il', 'elle', 'on', 'être', 'avoir', 'homme', 'femme', 'un', 'une', 'ce', 'se', 'à', 'ou', 'où', 'et', 'au', 'alors', 'afin', 'pour', 'or', 'donc', 'faire', 'pouvoir', 'son','ça', 'ce', 'ceci', 'cela', 'tout', 'toute', 'tous', 'tour', 's', 't', 'n', 'y', 'c', 'l', 'avant', 'après', 'e', 'siècle', 'animal', 'insecte', 'sport', 'art', 'science', 'physique', 'en', 'ne', 'pas', 'par', 'pour', 'car', 'cas', 'dans', 'avec', 'sans', 'plus', 'moins', 'tout', 'guerre', 'faut', 'pays', 'ville', 'langue', 'exemple', 'début', 'fin', 'forme', 'temps', 'date', 'durée', 'année', 'famille', 'oiseau', 'période', 'grand', 'petit', 'habitant', 'population', 'nombre', 'certain', 'espèce', 'taille', 'chaud', 'froid', 'né', 'mort', 'arbre', 'feuille', 'végétaux', 'nord', 'sud', 'ouest', 'fleur', 'arbre', 'mesure', 'monde', 'origine'];
-var TIMEOUT = 100;
+var TIMEOUT = 150;
 traiter_liste(liste_mots);
